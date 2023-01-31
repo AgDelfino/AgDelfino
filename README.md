@@ -9,7 +9,7 @@
 
 - 🤝 And my own Single Page App [Pokedex](https://deploy-pokedex-h9yj.vercel.app/)
 
-- 💬 Ask me about **React, NextJS, NodeJs and others!**
+- 💬 Ask me about **Javascript, React, Redux, NextJS, NodeJs and others!**
 
 - 📫 How to reach me **agustin.delfino92@gmail.com**
 
